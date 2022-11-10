@@ -80,7 +80,7 @@ section .title{
 .fre .fre-content .left{
   width: 30%;
   margin-top: 10%;
-  margin-left: 10%;
+  margin-left: 15%;
   margin-right: -10%;;
 }
 .fre .fre-content .left .input[type=text] {
@@ -132,7 +132,7 @@ border-radius: 6px;
 .sys .sys-content .left{
   width: 30%;
   margin-top: -40%;
-  margin-left: 8%;
+  margin-left: 15%;
 }
 .sys .sys-content .middle{
   width: 40%;
@@ -183,7 +183,7 @@ border-radius: 6px;
 }
 .mva .mva-content .left1{
   width: 40%;
-  margin-left: 10%;
+  margin-left: 15%;
 }
 .mva .mva-content .left .input[type=text] {
   width: 40%;
